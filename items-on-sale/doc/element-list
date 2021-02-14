@@ -1,0 +1,9 @@
+com.rbc.shopping
+com.rbc.shopping.controller
+com.rbc.shopping.exception
+com.rbc.shopping.model
+com.rbc.shopping.repository
+com.rbc.shopping.security
+com.rbc.shopping.service
+com.rbc.shopping.swagger
+com.rbc.shopping.util

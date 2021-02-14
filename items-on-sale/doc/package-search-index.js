@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.rbc.shopping"},{"l":"com.rbc.shopping.controller"},{"l":"com.rbc.shopping.exception"},{"l":"com.rbc.shopping.model"},{"l":"com.rbc.shopping.repository"},{"l":"com.rbc.shopping.service"},{"l":"com.rbc.shopping.swagger"},{"l":"com.rbc.shopping.util"}];updateSearchResults();
